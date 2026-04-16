@@ -66,6 +66,9 @@ tqdm
 2. 依序執行各步驟（STEP 0 ～ STEP 7）
 3. 訓練完成後自動下載 `submission.csv`
 
+## 預測成績
+![image](https://github.com/xuanxxx2002/Cleaned-vs-Dirty-V2/blob/main/image.png)
+
 ## 引用
 
 Igor.Slinko. *Cleaned vs Dirty V2*. https://kaggle.com/competitions/platesv2, 2019. Kaggle.
